@@ -2,5 +2,9 @@
   "devDependencies": {
     "blockbench-types": "^4.9.0",
     "typescript": "^5.4.2"
+  },
+  "main": "bb-rp-generator.js",
+  "scripts": {
+    "build": "npx tsc"
   }
 }
